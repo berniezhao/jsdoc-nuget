@@ -1,0 +1,20 @@
+{
+  "name": "jsdoc-nuget",
+  "version": "4.3.0",
+  "description": "jsdoc NuGet distribution",
+  "homepage": "http://http://usejsdoc.org/",
+  "author": {
+    "name": "berniezhao"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=0.4.2"
+  },
+  "dependencies": {
+    "jsdoc": "^3.4.0"
+  }
+}

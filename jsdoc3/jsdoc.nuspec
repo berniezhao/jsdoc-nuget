@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>JSDoc</id>
+    <version>3.4.0</version>
+    <authors>Bernie Zhao</authors>
+    <owners>JSDoc Community</owners>
+    <licenseUrl>http://usejsdoc.org/about-license-jsdoc3.html</licenseUrl>
+    <projectUrl>http://usejsdoc.org</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>JSDoc 3 is an API documentation generator for JavaScript. This is a standalone distribution for NuGet.</description>
+    <releaseNotes>Packaged version 3.4.0 into NuGet</releaseNotes>
+    <tags>jsdoc jsdoc3</tags>
+  </metadata>
+</package>
